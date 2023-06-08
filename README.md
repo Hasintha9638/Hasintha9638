@@ -1,7 +1,7 @@
 #### Hi there 👋
 
-<h5>Hasintha Ranaweera</h5>
-<h6>Software Engineer | Full Stack Engineer | AWS Solution Architect Associate Certified</h6>
+<h5>Hasintha Ranaweera
+    Software Engineer | Full Stack Engineer | AWS Solution Architect Associate Certified </h5>
 
 - 🔭 I’m currently working as Software Engineer at Panaceata since 3 years.
 - 🌱 I’m currently learning AI and Mobile Developing
