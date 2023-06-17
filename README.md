@@ -1,17 +1,16 @@
 # Hi there! 👋
 
-## I'm Hasintha Ranaweera
-### Software Engineer | Full Stack Engineer | AWS Solution Architect Associate Certified
+### I'm Hasintha Ranaweera, a passionate Software Engineer with a BCS in Computer Science degree. I'm currently working as a Software Engineer and hold the AWS Solution Architect Associate certification.
 
 <hr/>
 
-🔭 I’m currently working as a Software Engineer at Panaceata for the past 3 years.
+✨ I specialize in resolving complex logic and implementing efficient solutions. With a strong background in web development and cloud technologies, I strive to create innovative and impactful software solutions.
 
-🌱 I’m currently learning AI and Mobile Development.
+🚀 As a dedicated professional, I'm constantly expanding my knowledge and skills. I enjoy staying up-to-date with the latest trends in AI and mobile development, always eager to learn and grow.
 
-💬 I'm proficient in Web Designing.
+💡 If you have any exciting projects or collaboration opportunities, feel free to reach out! Let's create remarkable software solutions together.
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hasintha-ranaweera-90a261157/)
+🌟 Connect with me on [LinkedIn](https://www.linkedin.com/in/hasintha-ranaweera-90a261157/) to learn more about my work and experience.
 
 <hr/>
 
