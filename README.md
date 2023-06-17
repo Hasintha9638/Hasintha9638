@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-### I'm Hasintha Ranaweera, a passionate Software Engineer with a BCS in Computer Science degree. I'm currently working as a Software Engineer and hold the AWS Solution Architect Associate certification.
+### I'm Hasintha Ranaweera, a passionate Software Engineer with BSc in Computer Science degree. I'm currently working as a Software Engineer and hold the AWS Solution Architect Associate certification.
 
 <hr/>
 
