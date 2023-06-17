@@ -49,7 +49,7 @@
     
 ## University Project Development Support
 
-Welcome to our University Project Development Support repository! We are dedicated to providing professional development assistance for web-based projects to university students. Elevate your final software project with our expertise and guidance.
+We are dedicated to providing professional development assistance for web-based projects to university students. Elevate your final software project with our expertise and guidance.
 
 ### What We Offer
 - Comprehensive support for web-based project development
