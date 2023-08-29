@@ -8,8 +8,6 @@
 
 🚀 As a dedicated professional, I'm constantly expanding my knowledge and skills. I enjoy staying up-to-date with the latest trends in AI and mobile development, always eager to learn and grow.
 
-💡 If you have any exciting projects or collaboration opportunities, feel free to reach out! Let's create remarkable software solutions together.
-
 🌟 Connect with me on [LinkedIn](https://www.linkedin.com/in/hasintha-ranaweera-90a261157/) to learn more about my work and experience.
 
 <hr/>
